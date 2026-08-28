@@ -1,7 +1,10 @@
-Hospital-Management-System
-Reg No:212225240134
-Name: Samyukth.A
-Date:28/08/2026
+# Hospital-Management-System
+
+# Reg No:212225240134
+# Name: SAMYUKTH.A
+# Date:28/08/2026
+
+
 # AIM:
 To develop the Hospital Management System using Star UML.
 
